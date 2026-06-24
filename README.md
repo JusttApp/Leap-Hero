@@ -6,6 +6,11 @@ races to the end of each level — all while managing a health bar and fall dama
 
 > Coursework project for CPCS 494 (Game Development) at King Abdulaziz University.
 
+## Gameplay Preview
+![Leap Hero gameplay](media/leap-hero-preview.gif)
+
+▶ **[Watch the full gameplay video](media/leap-hero-gameplay.mp4)** (720p, ~5 MB)
+
 ## Gameplay Features
 - **Responsive platforming** — custom player movement, camera follow, and fall-damage system.
 - **Dynamic platforms** — floating, horizontal-moving, and sticky platforms that change how you traverse each level.
