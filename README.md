@@ -48,5 +48,5 @@ platform behaviours (`FloatingPlatform`, `PlatformHorizontal`, `StickyPlatform`)
 > excluded via `.gitignore`. Unity regenerates them automatically on first open.
 
 ## Author
-**Alawy Taha Albar** — Computer Science, King Abdulaziz University
+**Alawi Taha Albar** — Computer Science, King Abdulaziz University
 [GitHub](https://github.com/JusttApp) · [LinkedIn](https://www.linkedin.com/in/alawy-albar-915a1726b)
